@@ -1,0 +1,17 @@
+{
+  "codename": "THSarabunPSK24",
+  "ttf_path": "\\assets\\THSarabunNew Bold.ttf",
+  "bin_path": "\\assets\\ui_font_THSarabunPSK24.bin",
+  "c_path": "\\assets\\ui_font_THSarabunPSK24.c",
+  "cfg_path": "\\assets\\ui_font_THSarabunPSK24.fcfg",
+  "size": 24,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f",
+    "0x0E00-0x0E7F"
+  ],
+  "symbols": "",
+  "customparams": "",
+  "uploaded": false
+}

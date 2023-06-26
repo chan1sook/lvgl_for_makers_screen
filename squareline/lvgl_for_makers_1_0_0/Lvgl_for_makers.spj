@@ -1830,7 +1830,8 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "PANEL"
+            "saved_objtypeKey": "PANEL",
+            "tree_closed": true
           },
           {
             "guid": "GUID69207350-646061S998299",
@@ -2908,7 +2909,8 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "PANEL"
+            "saved_objtypeKey": "PANEL",
+            "tree_closed": true
           },
           {
             "guid": "GUID78039978-644534S877299",
@@ -3389,7 +3391,7 @@
               {
                 "disabled": false,
                 "nid": 1385303448,
-                "strtype": "BUTTON/EventHandler",
+                "strtype": "_event/EventHandler",
                 "strval": "CLICKED",
                 "childs": [
                   {
@@ -3412,7 +3414,7 @@
                   },
                   {
                     "nid": 1527917998,
-                    "strtype": "_custom/action",
+                    "strtype": "_event/action",
                     "strval": "CALL FUNCTION",
                     "childs": [
                       {
@@ -3452,7 +3454,8 @@
                 "InheritedType": 4
               }
             ],
-            "saved_objtypeKey": "BUTTON"
+            "saved_objtypeKey": "BUTTON",
+            "tree_closed": true
           }
         ],
         "isPage": true,
@@ -3641,7 +3644,7 @@
     "theme_color1": 5,
     "theme_color2": 0,
     "exportFolderPath": "C:\\Users\\chan1\\Desktop\\Works\\lvgl_for_makers_screen\\temp\\ui",
-    "backup_cnt": 8,
+    "backup_cnt": 13,
     "autosave_cnt": 0,
     "lvgl_version": "8.2.0",
     "callfuncsexport": "CPP_FILE",
